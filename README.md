@@ -1,6 +1,6 @@
 # Gabriel de Campos💻
 
-**`Bacharel em Sistemas de Informação`**
+**`Graduando em Sistemas de Informação`**
 
 ---
 

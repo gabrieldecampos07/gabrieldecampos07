@@ -1,6 +1,10 @@
 # Gabriel de Campos💻
 
-**`Sistemas de Informação`**
+**`Bacharel em Sistemas de Informação`**
+AlgProg 1 e 2
+Banco de Dados
+MPN
+BPMN
 
 ---
 

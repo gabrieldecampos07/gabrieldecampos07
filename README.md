@@ -1,6 +1,6 @@
 # Gabriel de Campos💻
 
-**`Graduando em Sistemas de Informação`**
+**`Sistemas de Informação - UFMS`**
 
 ---
 

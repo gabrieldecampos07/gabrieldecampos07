@@ -17,20 +17,20 @@
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="C++" 
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)" 
 />
 
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)" 
+    src="[[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)" 
 />
 
 <img 
